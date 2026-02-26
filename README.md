@@ -23,8 +23,8 @@ Program:
 ```
 /*
 Program to implement Linear and Polynomial Regression models for predicting car prices.
-Developed by: 
-RegisterNumber:  
+Developed by: N P YOGESH
+RegisterNumber:  212225240189
 */
 
 import pandas as pd
